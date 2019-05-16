@@ -17,3 +17,10 @@
         new file: answers.md
 7)  nothing to commit, working tree clean.
 8)  Shows commit hash with the author, date, and message.
+9)  Repository shows README.md and answers.md files with
+    the message of initial commit.
+10) No they were not reflected.
+11) Still not reflected.
+12) After git pull and reopening the file, the changes were
+    reflected.
+13) . .. .git .gitignore README.md
